@@ -170,17 +170,3 @@ Properties/launchSettings.json
 ```
 
 ---
-
-## Projeto bloqueado pela faculdade
-
-Mover o projeto para:
-
-```txt
-C:\Projetos
-```
-
-Evitar:
-- Downloads
-- Desktop
-
----
